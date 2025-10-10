@@ -10,10 +10,10 @@ Det er nødvendig med python og pip.
  * Install requirements: pip install -r requirements.txt
 
 For å åpne jupyter notebooks:
- * Åpne terminal i øving2 mappen
+ * Åpne terminal i øving3 mappen
  * Kjør kommando: python -m notebook
 
-Det er så bare å åpne Oving2.ipnb. 
+Det er så bare å åpne Oving3.ipnb. 
 
 ### Lykke til!
 
@@ -31,9 +31,9 @@ Python and pip are necessary.
  * Install requirements: `pip install -r requirements.txt`
 
 To open Jupyter notebooks:
- * Open terminal in the exercise2 directory
+ * Open terminal in the oving3 directory
  * Run command: `python -m notebook`
 
-Then simply open Oving2.ipnb.
+Then simply open Oving3.ipnb.
 
 ### Good luck!
